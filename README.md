@@ -7,6 +7,6 @@ Usage for mass account checker:
 * run
  
 # Authors
-*  Andri Wahyudi (GitHub: ! [duckstroms](https://github.com/Makavael))
-*  Stregh Streek  (GitHub: ! [streghstreek](https://github.com/Makavael))
+*  Ahmed Samir (Facebook: ! [duckstroms](https://www.facebook.com/BloodServer))
+*  Makavael  (GitHub: ! [streghstreek](https://github.com/Makavael))
  
