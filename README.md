@@ -1,4 +1,4 @@
-# Starbucks-Checker
+# Apache-CMS-Hack
 ![usage](https://i.ibb.co/x10wtGT/image-2021-06-26-214641.png)
 
 Usage for mass account checker:
