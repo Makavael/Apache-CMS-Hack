@@ -1,5 +1,5 @@
 # Apache-CMS-Hack
-![usage](https://i.ibb.co/x10wtGT/image-2021-06-26-214641.png)
+![usage](https://ibb.co/SNpx3qh)
 
 Usage for mass account checker:
 * bash sbux.sh  
