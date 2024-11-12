@@ -8,7 +8,7 @@ Usage for mass account checker:
 
 # Authors
 * Ahmed Samir 
-  [![Facebook](https://i.imgur.com/Fb-icon.png)](https://www.facebook.com/BloodServer) 
-  [![GitHub](https://i.imgur.com/GitHub-icon.png)](https://github.com/Makavael)
+  <a href="https://www.facebook.com/BloodServer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 20px; height: 20px;"></a>
+  <a href="https://github.com/Makavael"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 20px; height: 20px;"></a>
 * Makavael 
-  [![GitHub](https://i.imgur.com/GitHub-icon.png)](https://github.com/Makavael)
+  <a href="https://github.com/Makavael"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 20px; height: 20px;"></a>
